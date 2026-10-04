@@ -96,7 +96,7 @@ This project helped me practice:
 
 B.Tech CSE Student | Python Learner
 
-GitHub: [ritwikraiofficial-stack](https://github.com/ritwikrajofficial-stack)
+GitHub: [ritwikraiofficialll-stack](https://github.com/ritwikrajofficialll-stack)
 
 ## 📜 License
 
